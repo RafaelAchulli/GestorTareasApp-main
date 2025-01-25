@@ -1,0 +1,7 @@
+{
+  "name": "senati/gestion_tareas",
+  "description": "Proyecto Gestor de Tareas",
+  "require": {
+    "mpdf/mpdf": "^8.2"
+  }
+}
